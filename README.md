@@ -9,3 +9,5 @@ https://uxdesign.cc/how-to-build-intentional-ux-in-an-era-of-persuasive-technolo
 ## Typography
 
 https://uxdesign.cc/is-ai-better-at-picking-and-pairing-fonts-than-you-b8a05c029cc6
+
+https://uxdesign.cc/8-micro-tips-for-remarkably-better-typography-986c8c4f6d85
