@@ -8,6 +8,8 @@ https://bootcamp.uxdesign.cc/6-web-design-styles-that-are-uniquely-japan-1ba6753
 
 ## UX
 
+Most good UX medium posts are here: https://uxdesign.cc/
+
 https://uxdesign.cc/job-applications-suck-because-bad-ux-7623a408cf51
 
 https://uxdesign.cc/how-to-build-intentional-ux-in-an-era-of-persuasive-technology-aac1b78f377f
